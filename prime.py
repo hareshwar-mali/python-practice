@@ -1,4 +1,3 @@
-
 # check input number primer or not
 
 def is_prime(number):
@@ -10,7 +9,7 @@ def is_prime(number):
     return True
 
 # Test the function
-num = 17
+num = 23
 if is_prime(num):
     print(f"{num} is a prime number")
 else:
